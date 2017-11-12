@@ -1,0 +1,11 @@
+C:\Users\Home\Documents\Visual Studio 2017\Projects\ExploreCalifornia\ExploreCalifornia\bin\Debug\netcoreapp2.0\ExploreCalifornia.deps.json
+C:\Users\Home\Documents\Visual Studio 2017\Projects\ExploreCalifornia\ExploreCalifornia\bin\Debug\netcoreapp2.0\ExploreCalifornia.runtimeconfig.json
+C:\Users\Home\Documents\Visual Studio 2017\Projects\ExploreCalifornia\ExploreCalifornia\bin\Debug\netcoreapp2.0\ExploreCalifornia.runtimeconfig.dev.json
+C:\Users\Home\Documents\Visual Studio 2017\Projects\ExploreCalifornia\ExploreCalifornia\bin\Debug\netcoreapp2.0\ExploreCalifornia.dll
+C:\Users\Home\Documents\Visual Studio 2017\Projects\ExploreCalifornia\ExploreCalifornia\bin\Debug\netcoreapp2.0\ExploreCalifornia.pdb
+C:\Users\Home\Documents\Visual Studio 2017\Projects\ExploreCalifornia\ExploreCalifornia\obj\Debug\netcoreapp2.0\ExploreCalifornia.csprojResolveAssemblyReference.cache
+C:\Users\Home\Documents\Visual Studio 2017\Projects\ExploreCalifornia\ExploreCalifornia\obj\Debug\netcoreapp2.0\ExploreCalifornia.csproj.CoreCompileInputs.cache
+C:\Users\Home\Documents\Visual Studio 2017\Projects\ExploreCalifornia\ExploreCalifornia\obj\Debug\netcoreapp2.0\ExploreCalifornia.AssemblyInfoInputs.cache
+C:\Users\Home\Documents\Visual Studio 2017\Projects\ExploreCalifornia\ExploreCalifornia\obj\Debug\netcoreapp2.0\ExploreCalifornia.AssemblyInfo.cs
+C:\Users\Home\Documents\Visual Studio 2017\Projects\ExploreCalifornia\ExploreCalifornia\obj\Debug\netcoreapp2.0\ExploreCalifornia.dll
+C:\Users\Home\Documents\Visual Studio 2017\Projects\ExploreCalifornia\ExploreCalifornia\obj\Debug\netcoreapp2.0\ExploreCalifornia.pdb

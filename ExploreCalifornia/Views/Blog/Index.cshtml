@@ -1,0 +1,31 @@
+﻿@model IEnumerable<ExploreCalifornia.Models.Post>
+
+
+<h1>Explorer's Blog</h1>
+
+<p>
+    Bellow are a few of tyhe latest posts from some of our explorers.
+</p>
+
+<p class="pager">
+    @if (ViewBag.HasPreviousPage)
+    {
+        <a class="prev" href="@Url.Action("Index", "Blog", new { page = ViewBag.PreviousPage })">
+            &lt; Previous
+        </a>
+    }
+
+    @if (ViewBag.HasNextPage)
+    {
+        <a class="next" href="@Url.Action("Index", "Blog", new { page = ViewBag.NextPage })">
+            Next &gt;
+        </a>
+    }
+</p>
+
+<div class="blog-posts">
+    @foreach(var post in Model)
+    { 
+        @Html.Partial("_Post", post)
+    }
+</div>
